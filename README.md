@@ -1,4 +1,4 @@
-## Spam email classification demostration using NLP techniques
+## Spam email classification using NLP techniques
 These 5 notebooks demonstrates the various steps in an ML pipeline for an email spam classification solution
 
 ### non_sagemaker_pipeline notebook
