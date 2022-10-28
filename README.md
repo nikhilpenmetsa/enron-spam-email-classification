@@ -3,7 +3,7 @@ These 5 notebooks demonstrate the steps in a ML pipeline for an email spam class
 
 ### non_sagemaker_pipeline notebook
 
- * Performs data loading, pre-processing, training, prediction and performance measurement without using SageMaker services. Different vectorization techniques such as BOW, TF-IDF and word embeddings are explored.
+ * Performs data loading, pre-processing, training, prediction and evaluation without using SageMaker services. Different vectorization techniques such as BOW, TF-IDF and word embeddings are explored.
 
 ### data_loading notebook
 
