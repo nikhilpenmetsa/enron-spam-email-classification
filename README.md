@@ -19,4 +19,4 @@ These 5 notebooks demonstrates the various steps in an ML pipeline for an email 
 
 ### prediction notebook
 
- * Runs inference for the test dataset. Displays model performance.
+ * Evaluates model performance using the test data set.
