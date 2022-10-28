@@ -1,5 +1,5 @@
-## Spam email classification using NLP techniques
-These 5 notebooks demonstrates the various steps in an ML pipeline for an email spam classification solution
+## Spam email classification using NLP techniques on the Enron email data set.
+These 5 notebooks demonstrate the steps in a ML pipeline for an email spam classification solution.
 
 ### non_sagemaker_pipeline notebook
 
